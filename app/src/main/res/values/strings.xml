@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppNote</string>
+    <string name="text_input"><i>Your email...</i></string>
+    <string name="pass_input"><i>Password...</i></string>
+    <string name="btn_continue">Continue</string>
+    <string name="btn_gg">Google</string>
+    <string name="btn_fb">Facebook</string>
+    <string name="txt_register_1"><a>No account?</a></string>
+    <string name="txt_register_2"><a> Create one </a></string>
+    <string name="forgot_pass"><u><i>Forgot password?</i></u></string>
+    <string name="txt_input_sign_in">Sign in</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppNote/app/src/main/res/drawable/bg_stroke_gg.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppNote/app/src/main/res/drawable/bg_stroke_gg_fb.xml" value="0.2703125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppNote/app/src/main/res/drawable/border_button.xml" value="0.2703125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppNote/app/src/main/res/drawable/color_button.xml" value="0.2703125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppNote/app/src/main/res/drawable/color_button_continue.xml" value="0.2703125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppNote/app/src/main/res/drawable/color_button_gg.xml" value="0.2703125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppNote/app/src/main/res/drawable/color_button_sign_in.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppNote/app/src/main/res/drawable/color_button_sign_in_continue.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppNote/app/src/main/res/layout/activity_create_db.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppNote/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppNote/app/src/main/res/layout/login.xml" value="0.4" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppNote/app/src/main/res/layout/register.xml" value="0.23641304347826086" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppNote/app/src/main/res/layout/reset_pass_account.xml" value="0.23641304347826086" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppNote/app/src/main/res/layout/reset_pass_new_pass.xml" value="0.23641304347826086" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppNote/app/src/main/res/layout/sign_in_pass.xml" value="0.4" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppNote/app/src/main/res/layout/sing_in_pass.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
